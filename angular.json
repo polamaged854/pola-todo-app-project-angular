@@ -16,7 +16,7 @@
             "outputPath": "docs",
             "baseHref": "/pola-todo-app-project-angular/"
 ,
-            "index": "src/index.html",
+            "index": "index.html",
             "browser": "src/main.ts",
             "polyfills": [
               "zone.js"
